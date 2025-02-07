@@ -1,7 +1,3 @@
-Here’s a **professional and detailed README.md** file for your project:
-
----
-
 # Fake News Detection Web App
 
 A **machine learning-powered web application** to detect fake news based on the input text. This project leverages *
